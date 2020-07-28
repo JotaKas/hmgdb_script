@@ -5,7 +5,7 @@ Repository of scripts for the HumanMetagenomeDB
 #### INSTALLATION
 
 - git clone https://github.com/JotaKas/hmgdb_script
-- cd hmgdb_scripts
+- cd hmgdb_script
 
 #### HMgDB DOWNLOADER USAGE
 
